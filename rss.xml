@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[pidetudeseo]]></title>
         <description><![CDATA[pidetudeseo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pidetudeseo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 20:08:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 20:22:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pidetudeseo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EVENTOS]]></title>
+            <description><![CDATA[<p>EVENTOS</p>]]></description>
+            <link>https://thegrid.ai/pidetudeseo/eventos/index.html</link>
+            <guid isPermaLink="false">e083ea92-db40-4c66-8aed-6f6daeda0264</guid>
+            <pubDate>Sun, 24 Apr 2016 20:22:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VIDEOARTE]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5733e400-1b3f-428d-a1b4-795d592dd6f6.png">]]></description>
-            <link>undefinedvideoarte/index.html</link>
+            <link>https://thegrid.ai/pidetudeseo/videoarte/index.html</link>
             <guid isPermaLink="false">8815dcb1-645c-4938-aa38-64587394d14f</guid>
             <pubDate>Sun, 24 Apr 2016 20:08:40 GMT</pubDate>
         </item>
