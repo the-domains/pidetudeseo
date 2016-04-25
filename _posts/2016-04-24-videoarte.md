@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: VIDEOARTE
-datePublished: '2016-04-24T20:08:40.593Z'
-dateModified: '2016-04-24T20:07:56.379Z'
+datePublished: '2016-04-25T10:23:15.988Z'
+dateModified: '2016-04-25T10:14:51.624Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-24-videoarte.md
 published: true
+starred: true
 url: videoarte/index.html
 _type: Article
 
